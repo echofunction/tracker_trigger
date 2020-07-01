@@ -5,4 +5,8 @@ check a file for pattern match
 
 if there is a match, enable source(s) visibility
 
-check if a decktracker is running before you start streaming
+so, what does this do? not much at the moment
+
+what is the goal? play a sound if a pattern does NOT match.
+
+also, there should be a temp file be created for the duration of which the overlay is active?
